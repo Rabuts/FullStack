@@ -21,7 +21,7 @@ function App() {
 //   })
 //   .then(res => {return res.json()})
 //   .then(data => setUsers(data))
-// })
+// }))
 
   return (
     <div className="App">
